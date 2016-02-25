@@ -9,3 +9,4 @@ jquery插件，满屏块动画
 ## 过程
 插件会自动在body下面添加`<div class="jq-clo"></div>`的东西，然后生成HTML结构和CSS样式，应该算傻瓜操作吧--!!
 
+![ManfredHuLOGO](http://7xnkur.dl1.z0.glb.clouddn.com/cutPicQQ%E5%9B%BE%E7%89%8720160225181720.png?imageView2/2/w/203/h/203&e=1456482314&token=jTIp0CbeWdTdQCyxpZkzDuzwmVpl8s3sZKeBDHX0:b66n48TEsBOI_fE_Qevu5rXizjE)
